@@ -2,10 +2,10 @@
 
 https://semaphoreci.com/community/tutorials/getting-started-with-rspec
 
-a quick rspec tutorial for reference 
+a quick rspec tutorial for reference example
 
-
-bundle exec rspec --format documentation (example)
+```
+bundle exec rspec --format documentation 
 
 StringCalculator
   given an empty string
@@ -23,3 +23,4 @@ StringCalculator
 
 Finished in 0.02065 seconds (files took 0.14079 seconds to load)
 5 examples, 0 failures
+```
